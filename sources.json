@@ -1,0 +1,4 @@
+{
+ "ACLED 1997-2020": "data/acled_data_sm.csv",
+ "ACLED online": "https://api.acleddata.com/acled/read?terms=accept"
+}
